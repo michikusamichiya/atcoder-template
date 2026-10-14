@@ -1,4 +1,5 @@
 // This library is shared in https://github.com/michikusamichiya/atcoder-template, cpp-template.cpp
+// ! DO NOT REMOVE THIS SENTENCE DUE TO THE RULE!
 // michikusamichiya!
 
 /*

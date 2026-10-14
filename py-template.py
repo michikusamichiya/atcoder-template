@@ -1,5 +1,6 @@
 # ---------------------- BEGIN MY LIBRARY ----------------------
 # This library is shared in https://github.com/michikusamichiya/atcoder-template, py-template.py
+# ! DO NOT REMOVE THIS SENTENCE DUE TO THE RULE!
 """
 
 このライブラリはコンテスト中、いくつか編集されることがあります(BEGIN MY LIBRARYからEND MY LIBRARYまで)が、
